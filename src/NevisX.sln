@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NevisX", "NevisX\NevisX.csproj", "{B1B4A7F6-6024-457B-8961-38A0839D4A54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhilLibX", "..\..\PhilLibX\src\PhilLibX\PhilLibX\PhilLibX.csproj", "{881CEEB6-F8C5-48A7-AF1F-369F67E4A385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B4A7F6-6024-457B-8961-38A0839D4A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B4A7F6-6024-457B-8961-38A0839D4A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B4A7F6-6024-457B-8961-38A0839D4A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B4A7F6-6024-457B-8961-38A0839D4A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881CEEB6-F8C5-48A7-AF1F-369F67E4A385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881CEEB6-F8C5-48A7-AF1F-369F67E4A385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881CEEB6-F8C5-48A7-AF1F-369F67E4A385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881CEEB6-F8C5-48A7-AF1F-369F67E4A385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60EA4E24-3A45-4572-9B44-78D537BCF8D9}
+	EndGlobalSection
+EndGlobal
